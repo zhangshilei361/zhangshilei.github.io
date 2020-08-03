@@ -2,4 +2,4 @@ theme: jekyll-theme-leap-day
 deploy:
   type: git
   repository: https://github.com/zhangshilei361/zhangshilei.github.io
-  branch: master
+  branch: feature/blog

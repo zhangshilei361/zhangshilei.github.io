@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 技术的狂热者
+title:
 email: zhangshilei361@163.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -58,12 +58,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-markdown: kramdon
-
-layout: post
-title: Blogging Like a Hacker
-
-deploy:
-  type: git
-  repository: https://github.com/zhangshilei361/zhangshilei.github.io
-  branch: master
+markdown: kramdown

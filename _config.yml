@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
 deploy:
   type: git
   repository: https://github.com/zhangshilei361/zhangshilei.github.io

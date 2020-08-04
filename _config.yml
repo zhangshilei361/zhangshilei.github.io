@@ -53,7 +53,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+markdown: kramdon
+remote_theme: benbalter/retlab
 deploy:
   type: git
   repository: https://github.com/zhangshilei361/zhangshilei.github.io
